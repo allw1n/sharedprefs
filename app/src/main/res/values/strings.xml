@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">sharedprefs</string>
+    <string name="shared_preferences">Shared Preferences</string>
+    <string name="add_to_shared_prefs">Add to Shared Prefs</string>
+    <string name="select_a_day">Select a Day</string>
+    <string name="enter_anything">Enter anything</string>
+    <string name="display_shared_prefs">Display Shared Prefs</string>
+    <string-array name="day_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
